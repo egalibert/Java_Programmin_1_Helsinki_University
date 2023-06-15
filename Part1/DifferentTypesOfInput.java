@@ -10,7 +10,7 @@ public class DifferentTypesOfInput {
         // Write your program here
         System.out.println("Give a string:");
         String answer1 = scan.nextLine();
-        System.out.println("Give and integer:");
+        System.out.println("Give an integer:");
         Integer answer2 = Integer.valueOf(scan.nextLine());
         System.out.println("Give a double:");
         Double answer3 = Double.valueOf(scan.nextLine());
