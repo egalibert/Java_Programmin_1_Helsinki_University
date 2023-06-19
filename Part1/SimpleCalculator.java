@@ -22,3 +22,4 @@ public class SimpleCalculator {
         System.out.println(value1 + " / " + value2 + " = " + ((value3 / value4)));
 
     }
+}
