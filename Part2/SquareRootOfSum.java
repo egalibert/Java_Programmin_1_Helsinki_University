@@ -10,7 +10,11 @@ public class SquareRootOfSum {
         int num2 = Integer.valueOf(scanner.nextLine());
 
         double SquareRootOfSum = Math.sqrt(num + num2);
-        System.out.println(SquareRootOfSum);
+
+        Double newData = SquareRootOfSum;
+        int value = newData.intValue();
+
+        System.out.println(value);
 
     }
 }
